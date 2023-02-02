@@ -4,7 +4,7 @@
 
 ## I'm a Student at University of Beira Interior.
 
-- 🌱 I’m currently learning everything 🤣
+[//]: <> (- 🌱 I’m currently learning everything 🤣)
 - ⚡ Fun fact: I love to play video games and do sports
 
 ## More to be added...
