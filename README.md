@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 ---------
 
-I am a dedicated computer science professional with a robust foundation in both personal and technical proficiencies. Specializing in backend development, I have accumulated valuable experience at a small yet dynamic company alongside highly skilled professionals, honing my skills and passion for coding. I am adept at tackling intricate challenges specific to backend systems and thrive in collaborative environments.
+I am a dedicated computer science professional with a robust foundation in both personal and technical proficiencies. Specializing in backend development and passionate about DevOps, I have accumulated valuable experience at a small yet dynamic company alongside highly skilled professionals, honing my skills and passion for coding. I am adept at tackling intricate challenges specific to backend systems, and I thrive in collaborative environments.
 
-My approach involves self-directed problem-solving, and I value collaboration, rejoicing in the collective triumph of finding superior solutions. Committed to fostering a collaborative and uplifting environment, my door is always open for anyone requiring support. I am enthusiastic about continuous learning in the ever-evolving field of computer science, particularly in the realm of backend technologies.
+My expertise extends to DevOps practices and CI/CD pipelines, where I leverage automation to streamline development workflows. My approach involves self-directed problem-solving, and I value collaboration, rejoicing in the collective triumph of finding superior solutions. Committed to fostering a collaborative and uplifting environment, my door is always open for anyone requiring support. I am enthusiastic about continuous learning in the ever-evolving field of computer science, particularly in the realms of backend development and DevOps.
 
 Feel free to explore my repositories to discover the diverse projects I've undertaken, showcasing my commitment to delivering optimal solutions. I'd love to connect and collaborate. Let's build something amazing together!
 
