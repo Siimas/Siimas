@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 ---------
 
-I have recently completed my degree in computer science and have amassed a year of valuable experience at a small yet dynamic company. Working alongside highly skilled professionals, I have had the privilege of honing both my personal and technical proficiencies. My fervent passion for coding is fueled by a genuine love for tackling intricate challenges. More recently, my intrigue has shifted towards the captivating realm of Blockchain technology and web3. This newfound fascination has led me to engage in intensive studies and the development of projects aimed at refining these skills. As a highly self-directed individual, I derive satisfaction from crafting optimal solutions. Nevertheless, I am also a firm believer in collaboration and willingly seek assistance when the need arises, rejoicing in the collective triumph of a superior solution. Endowed with a spirit of kindness, I am steadfastly dedicated to extending assistance to those in need. My door is always open for anyone requiring support, reflecting my commitment to fostering a collaborative and uplifting environment.
+I am a dedicated computer science professional with a robust foundation in both personal and technical proficiencies. Specializing in backend development, I have accumulated valuable experience at a small yet dynamic company alongside highly skilled professionals, honing my skills and passion for coding. I am adept at tackling intricate challenges specific to backend systems and thrive in collaborative environments.
+
+My approach involves self-directed problem-solving, and I value collaboration, rejoicing in the collective triumph of finding superior solutions. Committed to fostering a collaborative and uplifting environment, my door is always open for anyone requiring support. I am enthusiastic about continuous learning in the ever-evolving field of computer science, particularly in the realm of backend technologies.
+
+Feel free to explore my repositories to discover the diverse projects I've undertaken, showcasing my commitment to delivering optimal solutions. I'd love to connect and collaborate. Let's build something amazing together!
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [simaomarques20@gmail.com](mailto:simaomarques20@gmail.com) 
